@@ -34,7 +34,7 @@ export default {
           800: '#222222',
         },
         red: {
-          500: '#fb3a5d',
+          500: '#000000',
         },
       },
       boxShadow: {

@@ -100,7 +100,7 @@ function AvatarCarousel({
 const Avatar = () => {
   return (
     <div className="flex h-full w-full flex-col items-center justify-center gap-6">
-      <div>People who love SyntaxUI</div>
+      <div>People who love SyntaxUi Clone</div>
       <AvatarCarousel />
     </div>
   )

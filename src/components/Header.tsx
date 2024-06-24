@@ -78,19 +78,19 @@ export const Header = forwardRef<
           className="mr-3 flex items-center justify-center gap-1"
         >
           <Image
-            src="/images/syntaxUI-outline.svg"
-            alt="syntaxUI"
+            src="/images/SyntaxUi-outline.svg"
+            alt="SyntaxUi Clone"
             className="mr-1 h-6 w-6 rounded-lg"
             width={100}
             height={100}
           />
           <div className="text-md font-medium text-gray-800 dark:text-white">
-            Syntax<span className="text-[10px] font-bold text-red-500">UI</span>
+            Docssmith
+            <span className="text-[10px] font-bold text-red-500">UI</span>
           </div>
         </Link>
         <ul role="list" className="flex w-full items-center gap-4">
           <TopLevelNavItem href="/components">Get Started</TopLevelNavItem>
-          <TopLevelNavItem href="/templates">Templates</TopLevelNavItem>
         </ul>
       </div>
       {/* <Search /> */}
@@ -104,8 +104,8 @@ export const Header = forwardRef<
           className="ml-2 mr-3 flex items-center justify-center gap-1"
         >
           <Image
-            src="/images/syntaxUI-outline.svg"
-            alt="syntaxUI"
+            src="/images/SyntaxUi-outline.svg"
+            alt="SyntaxUi Clone"
             className="h-6 w-6"
             width={100}
             height={100}
@@ -116,9 +116,7 @@ export const Header = forwardRef<
         </Link>
         <ul role="list" className="flex w-full items-center gap-4">
           <TopLevelNavItem href="/docs">Get Started</TopLevelNavItem>
-          <TopLevelNavItem href="https://discord.gg/P8GXYyH3ZU">
-            Community
-          </TopLevelNavItem>
+          <TopLevelNavItem href="#">Community</TopLevelNavItem>
         </ul>
       </div>
       <div className="flex items-center gap-5">
@@ -131,17 +129,13 @@ export const Header = forwardRef<
           <ThemeToggle />
 
           <Link
-            href="https://twitter.com/justansub"
-            target="_blank"
-            rel="noreferrer"
+            href="#"
             className="hidden items-center gap-1 rounded-lg p-2  text-sm text-gray-600 transition-all duration-300 ease-in-out hover:bg-gray-100 md:flex dark:hover:bg-white/5 "
           >
             <XIcon className="h-4 w-4 dark:text-white" fill="currentColor" />
           </Link>
           <Link
-            href="https://discord.gg/P8GXYyH3ZU"
-            target="_blank"
-            rel="noreferrer"
+            href="#"
             className="hidden items-center gap-1 rounded-lg p-2  text-sm text-gray-600 transition-all duration-300 ease-in-out hover:bg-gray-100 md:flex dark:hover:bg-white/5"
           >
             <DiscordIcon
@@ -150,9 +144,7 @@ export const Header = forwardRef<
             />
           </Link>
           <Link
-            href="https://github.com/ansub/ui"
-            target="_blank"
-            rel="noreferrer"
+            href="#"
             className="hidden items-center gap-1 rounded-lg p-2  text-sm text-gray-600 transition-all duration-300 ease-in-out hover:bg-gray-100 md:flex dark:hover:bg-white/5"
           >
             <GitHubIcon

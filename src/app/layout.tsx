@@ -8,11 +8,9 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { Toaster } from 'sonner'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://syntaxui.com'),
   title: {
-    template: '%s - SyntaxUI',
-    default:
-      'SyntaxUI - Stop coding from scratch. Build faster. Launch sooner.',
+    template: '%s - DocsSmith SyntaxUi Clone',
+    default: 'DocsSmith SyntaxUi Clone - We recreated syntax ui.',
   },
   description: `Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!`,
 }

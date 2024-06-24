@@ -13,8 +13,8 @@ export const TemplateData = [
     originalPrice: 39,
     discount: 50,
     downloadLink:
-      'https://syntaxui.lemonsqueezy.com/buy/a3c17154-6196-4704-ab1d-2d47dcf15d97',
-    livePreviewLink: 'https://stoic-syntaxui.vercel.app/',
+      'https://SyntaxUi Clone.lemonsqueezy.com/buy/a3c17154-6196-4704-ab1d-2d47dcf15d97',
+    livePreviewLink: 'https://stoic-SyntaxUi Clone.vercel.app/',
     description: (
       <>
         <p className="">

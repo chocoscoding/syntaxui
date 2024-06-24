@@ -20,14 +20,14 @@ jobs:
           issue-message: |
             Hello @${{ github.actor }},
 
-            Thanks for creating this issue and contributing to SyntaxUI!
+            Thanks for creating this issue and contributing to SyntaxUi Clone!
 
             [@Ansub](https://github.com/Ansub) will review your issue soon and provide feedback. In the meantime, feel free to join the [discord](https://discord.com/invite/P8GXYyH3ZU) community, It's a great place to discuss the project, ask questions, and connect with other contributors.
           pr-message: |
-            Awesome work, @${{ github.actor }}! 🎉 Thank you for your contribution and efforts to enhance SyntaxUI. 
+            Awesome work, @${{ github.actor }}! 🎉 Thank you for your contribution and efforts to enhance SyntaxUi Clone. 
 
             [@Ansub](https://github.com/Ansub) will review your changes soon and provide feedback.
 
             Feel free to join the [Discord](https://discord.com/invite/P8GXYyH3ZU) community to engage with other contributors.
 
-          footer: 'Please ensure that you have followed the [contributing guidelines](https://github.com/Ansub/SyntaxUI/blob/main/CONTRIBUTING.md) for a smooth review process.'
+          footer: 'Please ensure that you have followed the [contributing guidelines](https://github.com/Ansub/SyntaxUi Clone/blob/main/CONTRIBUTING.md) for a smooth review process.'

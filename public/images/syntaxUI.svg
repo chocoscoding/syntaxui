@@ -1,5 +1,33 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1000" height="1000" fill="#FB3A5D"/>
-<path d="M633.562 416.162H464.803L632.601 583.96L465.651 750.915H634.405L801.363 583.963L633.562 416.162Z" fill="white"/>
-<path d="M366.437 248.785H535.196L367.398 416.583L534.348 583.539H365.594L198.636 416.586L366.437 248.785Z" fill="white"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.37 62.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-2" x=".5" y=".5" width="61.37" height="61.37" rx="8.67" ry="8.67"/>
+      <rect class="cls-1" x="19.43" y="5.93" width="34.4" height="7.59" rx="2.55" ry="2.55"/>
+      <rect class="cls-1" x="8.14" y="5.93" width="7.59" height="7.59" rx="3.8" ry="3.8"/>
+      <rect class="cls-1" x="25.1" y="20.62" width="31.6" height="7.59" rx="2.55" ry="2.55"/>
+      <rect class="cls-1" x="6.28" y="20.62" width="15.16" height="7.59" rx="2.55" ry="2.55"/>
+      <rect class="cls-1" x="13.86" y="48.85" width="19.56" height="7.59" rx="2.55" ry="2.55"/>
+      <rect class="cls-1" x="38.08" y="48.85" width="17.62" height="7.59" rx="2.55" ry="2.55"/>
+      <rect class="cls-1" x="44.5" y="34.7" width="7.59" height="7.59" rx="3.8" ry="3.8" transform="translate(96.6 76.99) rotate(180)"/>
+      <rect class="cls-1" x="4.77" y="34.7" width="35.01" height="7.59" rx="2.55" ry="2.55"/>
+    </g>
+  </g>
 </svg>

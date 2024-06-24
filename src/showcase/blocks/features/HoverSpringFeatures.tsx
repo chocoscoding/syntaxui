@@ -6,10 +6,10 @@ import Image from 'next/image'
 const ProjectsData = [
   {
     id: 1,
-    name: 'syntaxUI',
+    name: 'SyntaxUi Clone',
     description: 'Ready-to-use UI elements designed for rapid development.',
-    link: 'https://syntaxui.com',
-    image: 'https://ansubkhan.com/images/projects/syntaxUI.svg',
+    link: 'https://SyntaxUi Clone.com',
+    image: 'https://ansubkhan.com/images/projects/SyntaxUi Clone.svg',
   },
   {
     id: 2,

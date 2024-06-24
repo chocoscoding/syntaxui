@@ -22,7 +22,7 @@ const BorderGlowButton = () => {
 
   return (
     <button
-      className="relative overflow-hidden rounded-lg bg-[#e5e7eb] transform transition-transform ease-in-out active:scale-90"
+      className="relative transform overflow-hidden rounded-lg bg-[#e5e7eb] transition-transform ease-in-out active:scale-90"
       ref={ref}
     >
       <span
@@ -35,7 +35,7 @@ const BorderGlowButton = () => {
         }
       ></span>
       <div className="relative z-10 m-[1px] rounded-[calc(0.5rem-1px)] bg-white/90  px-4 py-1 text-xs text-[#fb3b53] backdrop-blur-sm">
-        SyntaxUI
+        SyntaxUi Clone
       </div>
     </button>
   )

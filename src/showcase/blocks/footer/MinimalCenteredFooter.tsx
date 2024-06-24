@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
           ))}
         </div>
         <p className="mt-6 text-center text-sm text-gray-600 dark:text-gray-100">
-          &copy; {new Date().getFullYear()} SyntaxUI. All rights reserved.
+          &copy; {new Date().getFullYear()} SyntaxUi Clone. All rights reserved.
         </p>
       </div>
     </footer>

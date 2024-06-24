@@ -31,7 +31,7 @@ const data: ToggleCardProps[] = [
   {
     title: 'Text Drop',
     link: '/components/text/text-drop',
-    component: <TextDrop text="SyntaxUI" />,
+    component: <TextDrop text="SyntaxUi Clone" />,
   },
   {
     title: 'Text Gradient',

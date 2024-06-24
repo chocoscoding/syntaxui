@@ -41,7 +41,7 @@ const TwoColumnFooter = () => {
               unoptimized={true}
               width={100}
               height={40}
-              src="/images/syntaxUI.svg"
+              src="/images/SyntaxUi Clone.svg"
               alt="logo"
               className="h-7 w-auto"
             />
@@ -96,7 +96,7 @@ const TwoColumnFooter = () => {
         </div>
         <div className="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 lg:mt-24 dark:border-gray-100/10">
           <p className="text-xs leading-5 text-gray-700 dark:text-gray-300">
-            &copy; 2024 SyntaxUI. All rights reserved.
+            &copy; 2024 SyntaxUi Clone. All rights reserved.
           </p>
         </div>
       </div>
